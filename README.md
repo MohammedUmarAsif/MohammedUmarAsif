@@ -2,9 +2,21 @@
 
 ## Applied data science, with quality at the core.
 
-I investigate real questions with analytics, Earth observation and machine learning. AI-assisted software and testing make the work usable; transparent review makes its limits visible.
+**Applied Data Scientist | Decision Analytics, Data Quality & Research Modelling**
 
-[Selected work](#selected-work) · [Review & learning](#review--learning) · [Research direction](#research-direction) · [Experience & CV](https://mohammed-umar-sayed.vercel.app/en) · [Contact](https://www.linkedin.com/in/mohammedumarasif/)
+I'm an MSc-qualified Applied Data Scientist focused on turning complex data into useful insights, testable improvements and reliable tools. My experience spans business analytics, geospatial data quality, environmental monitoring and applied AI systems. Across these areas, I investigate problems, challenge results and explain what the evidence supports.
+
+[About](#about) · [Selected work](#selected-work) · [Review & learning](#review--learning) · [Research direction](#research-direction) · [Experience & CV](https://mohammed-umar-sayed.vercel.app/en) · [Contact](https://www.linkedin.com/in/mohammedumarasif/)
+
+## About
+
+Professionally, I've translated stakeholder feedback into software requirements, automated recurring validation, improved field-reference workflows and investigated satellite evidence for peatland monitoring. In applied AI work, I've traced retrieval failures, helped simplify inefficient LLM workflows and contributed automated tests against client requirements. This connects my analytical work with software development, manual testing and quality assurance.
+
+My projects explore carbon-flux modelling, customer-feedback intelligence, aviation diagnostics and reproducible geospatial analysis. I'm interested in the decisions behind the implementation: whether the data is trustworthy, whether a model beats a sensible baseline, where it fails and what further validation would make it useful.
+
+I use AI to accelerate research and software development while making its contribution explicit. I document completed checks, personal review and remaining learning separately. My aim is to understand the systems I work with well enough to explain their behaviour, question their assumptions and improve them.
+
+Looking ahead, I want to connect reliable analytics and machine learning with player feedback, game telemetry and adaptive systems. I'm working toward PhD research in Japan and a longer-term career in games-industry insights or analytics, including Capcom. I welcome applied data science opportunities, research collaboration and thoughtful technical review.
 
 ## Selected work
 
